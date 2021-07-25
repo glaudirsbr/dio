@@ -1,5 +1,7 @@
-# Repositório do Digital Innovation One
+# Digital Innovation One
 
-##Links Ùteis
+Criaro para armazenar os exercícios dos cursos
+
+## Links Ùteis
 
 [Sintaxe Básica Markdown] (https://www.markdownguide.org/getting-started/) 
