@@ -1,1 +1,1 @@
-# Local onde será guardado os exercicios do Digital Innovation One
+# Os exercicios do Digital Innovation One
