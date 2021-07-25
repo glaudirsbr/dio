@@ -1,0 +1,19 @@
+Para criar um repositorio
+
+Cria a pasta do windows explorer
+git init
+
+git add * - para adicionar ao repositório;
+gir commit -m "Mensagem" - para mover para staged;
+git push origin main - subir para o servidor do Github
+
+Para baixar
+git pull origin main
+git add *
+git commit -m "Mensagem"
+git push origin main - Para subir para o server do Github
+
+git status - para checar o status
+git remote -v - para checar o status repositório remoto
+
+
